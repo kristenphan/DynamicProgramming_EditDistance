@@ -16,7 +16,6 @@ strings.
 <br/>
 
 __Input Format.__
-<br/>
 Each of the two lines of the input contains a string consisting of lower case latin letters.
 <br/>
 
