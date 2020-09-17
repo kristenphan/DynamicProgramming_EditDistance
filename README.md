@@ -10,6 +10,7 @@ Edit distance has many applications in computational biology, natural language p
 
 __Problem Description__
 <br/>
+
 __Task.__ The goal of this problem is to implement the algorithm for computing the edit distance between two
 strings.
 <br/>
@@ -40,7 +41,7 @@ Output:
 0
 <br/>
 
-Sample 2.
+__Sample 2.__
 <br/>
 Input:
 <br/>
