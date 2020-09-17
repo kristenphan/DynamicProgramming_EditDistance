@@ -10,4 +10,4 @@ Edit distance has many applications in computational biology, natural language p
 
 __Disclaimer__: 
 
-If you're currently taking the same course, please refrain yourself from checking out this solution as it will be against Coursera's Honor Code and won’t do you any good. Plus, once you're worked your heart out and was able to solve a particularly difficult problem, a sense of confidence you gained from such experience is priceless :)
+If you're currently taking the same course, please refrain yourself from checking out this solution as it will be against Coursera's Honor Code and won’t do you any good. Plus, once you've worked your heart out and are able to solve a particularly difficult problem, a sense of confidence you've gained from such experience is priceless :)
