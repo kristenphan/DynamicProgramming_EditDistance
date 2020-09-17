@@ -1,4 +1,4 @@
-# DynamicProgramming_EditDistance
+# Dynamic Programming: Comput Edit Distance
 https://www.coursera.org/learn/algorithmic-toolbox/
 
 __Assignment description:__
